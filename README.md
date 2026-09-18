@@ -14,3 +14,6 @@ I chose this because I think this difference is important. Agentic programming a
 
 
 
+## Comment by Spark Fan
+
+Your question about whether harness engineering will become a separate skill stood out to me. Even if tools automate more of the setup, developers still need to decide which requirements and checks matter for their project. Fowler's emphasis on domain knowledge seems especially relevant here. For example, an agent could produce code that passes its tests but misses a user's actual need. I think harness engineering may become part of everyday development rather than a separate role, while choosing meaningful checks remains an important human skill.
